@@ -1,0 +1,7 @@
+name: BlockHunt
+version: ${project.version}
+main: me.cuft.blockhunt.BlockHunt
+api-version: 1.16
+commands:
+  starthunt:
+    description: oof
