@@ -1,4 +1,4 @@
-# MCSpigot-Blockhunt
+# Blockhunt
 Minecraft Spigot plugin that plays a game of blockhunt between all the online players. Inspired by [Dream](https://www.youtube.com/watch?v=p34C7fNFgTA)
 
 # Purpose
